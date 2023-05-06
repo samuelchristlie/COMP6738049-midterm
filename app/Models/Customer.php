@@ -13,7 +13,7 @@ class Customer extends Model
         "id",
         "name",
         "user",
-        "pass",
+        "password",
         "loyalty",
         "session"
     ];
